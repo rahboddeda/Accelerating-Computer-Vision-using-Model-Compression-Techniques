@@ -1,4 +1,4 @@
-# 🗜️ Model Compression Techniques: Pruning, Quantization, & Knowledge Distillation
+# 🗜️ Accelerating Computer Vision using Model Compression Techniques
 
 This repository contains a collection of Kaggle Notebooks (.ipynb) demonstrating three of the most powerful model compression and optimization techniques in Machine Learning and Deep Learning. These techniques are essential for deploying large models onto resource-constrained edge devices, mobile phones, and web browsers.
 
