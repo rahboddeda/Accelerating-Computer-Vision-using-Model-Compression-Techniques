@@ -7,8 +7,11 @@ This repository contains a collection of Kaggle Notebooks (.ipynb) demonstrating
 The repository is organized into three main directories, each focusing on a specific compression technique:
 
 📦 repository-name
- ┣ 📂 Pruning                 # Notebooks demonstrating weight/neuron removal
+
+ ┣ 📂 Pruning                 # Notebooks demonstrating filter removal
+ 
  ┣ 📂 Quantization            # Notebooks demonstrating precision reduction (e.g., FP32 to INT8)
+ 
  ┗ 📂 Knowledge Distillation  # Notebooks demonstrating Teacher-Student model learning
 
 
@@ -60,8 +63,8 @@ If you have a local GPU or want to run the code on your own machine:
 
 #### Clone the repository:
 ```
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO-NAME.git
-cd YOUR-REPO-NAME
+git clone https://github.com/rahboddeda/Accelerating-Computer-Vision-using-Model-Compression-Techniques.git
+cd Accelerating-Computer-Vision-using-Model-Compression-Techniques
 ```
 
 #### Set up a virtual environment:
